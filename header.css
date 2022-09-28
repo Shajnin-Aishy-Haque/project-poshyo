@@ -1,0 +1,16 @@
+.navbar {
+  height: 100px;
+}
+
+.logo {
+  width: 50px;
+}
+
+.bannerImg {
+  width: 100%;
+  height: 600px;
+}
+
+.CarouselHeading {
+  font-weight: 700;
+}

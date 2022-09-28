@@ -1,0 +1,62 @@
+.banner-area {
+  display: flex;
+  height: 500px;
+}
+.banner-msg {
+  text-align: center;
+  padding: 150px;
+}
+.body {
+  display: flex;
+  padding-right: 70px;
+}
+
+.contentBody {
+  padding: 80px 0px 0px;
+}
+
+.contents {
+  width: 80%;
+  margin-left: 70px;
+}
+
+.card {
+  margin: 80px 0px;
+  border-radius: 25px;
+  box-shadow: 3px 3px 25px 5px rgb(237, 235, 235);
+}
+.sideContent {
+  padding: 150px 0px 0px;
+}
+.recentPosts {
+  margin-top: 10px;
+  box-shadow: 3px 3px 15px 5px rgb(237, 235, 235);
+  background-color: rgb(247, 246, 255);
+  padding: 35px;
+}
+.eachRecentPost {
+  display: flex;
+  padding-bottom: 20px;
+}
+.recentPostImg {
+  width: 130px;
+}
+
+.recentPostContent {
+  padding-top: 15px;
+  padding-left: 20px;
+}
+.tagCloud {
+  margin-top: 100px;
+  padding: 35px;
+  background-color: rgb(247, 246, 255);
+  box-shadow: 3px 3px 15px 5px rgb(237, 235, 235);
+}
+.tagCloud button {
+  border: 1px solid rgb(239, 237, 237);
+  border-radius: 2px;
+  padding: 7px 15px;
+  margin: 10px;
+  background-color: rgb(248, 245, 245);
+  color: rgb(135, 135, 135);
+}
